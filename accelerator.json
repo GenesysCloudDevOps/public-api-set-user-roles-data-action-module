@@ -11,11 +11,7 @@
     ],
     "permissions": [
         "authorization:grant:add"
-    ],
-    "products": [
-        "Baseline set of permissions necessary to operate Genesys Cloud",
-        "Collaborate Free"
-    ],
+    ],    
     "documentation": [],
     "presentation": [
         {
